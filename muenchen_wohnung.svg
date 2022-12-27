@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   sodipodi:docname="muenchen_wohnung.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.77771465"
+     inkscape:cx="143.36878"
+     inkscape:cy="576.68967"
+     inkscape:window-width="1312"
+     inkscape:window-height="1081"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient2994"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#c83737;stop-opacity:1;"
+         offset="0"
+         id="stop2992" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#0000ff;fill-opacity:0.279352;fill-rule:evenodd;stroke-width:0.264583"
+       id="rect31"
+       width="57.494846"
+       height="61.237114"
+       x="30.278347"
+       y="35.381443" />
+    <rect
+       style="fill:#008080;fill-rule:evenodd;stroke-width:0.264583;fill-opacity:0.27935222"
+       id="rect33"
+       width="30.618551"
+       height="48.649483"
+       x="87.773193"
+       y="35.381443" />
+    <rect
+       style="fill:#ff00ff;stroke-width:0.264583;fill-opacity:0.2631579"
+       id="rect894"
+       width="57.494846"
+       height="53.412369"
+       x="30.278347"
+       y="96.618561" />
+    <rect
+       style="fill:#c83737;stroke-width:0.264583;fill-opacity:0.37651822"
+       id="rect940"
+       width="69.402061"
+       height="21.092781"
+       x="87.773193"
+       y="84.03093" />
+    <rect
+       style="fill:#00ffff;fill-opacity:0.263158;stroke-width:0.264583"
+       id="rect3372"
+       width="69.402061"
+       height="44.907215"
+       x="87.773193"
+       y="105.12371" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:0.412955;stroke:none;stroke-width:0.264583"
+       x="41.84536"
+       y="45.587631"
+       id="text3684"><tspan
+         sodipodi:role="line"
+         id="tspan3682"
+         style="fill:#000000;fill-opacity:0.412955;stroke-width:0.264583"
+         x="41.84536"
+         y="45.587631">Kitchen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:0.412955;stroke:none;stroke-width:0.264583"
+       x="90.955833"
+       y="46.125881"
+       id="text3684-9"><tspan
+         sodipodi:role="line"
+         id="tspan3682-0"
+         style="fill:#000000;fill-opacity:0.412955;stroke-width:0.264583"
+         x="90.955833"
+         y="46.125881">Bath</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:0.412955;stroke:none;stroke-width:0.264583"
+       x="35.502224"
+       y="108.72383"
+       id="text3684-9-5-2"><tspan
+         sodipodi:role="line"
+         id="tspan3682-0-2-7"
+         style="fill:#000000;fill-opacity:0.412955;stroke-width:0.264583"
+         x="35.502224"
+         y="108.72383">Sleeping</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:0.412955;stroke:none;stroke-width:0.264583"
+       x="107.62594"
+       y="115.86815"
+       id="text3684-9-5-3"><tspan
+         sodipodi:role="line"
+         id="tspan3682-0-2-79"
+         style="fill:#000000;fill-opacity:0.412955;stroke-width:0.264583"
+         x="107.62594"
+         y="115.86815">Living</tspan></text>
+  </g>
+</svg>
